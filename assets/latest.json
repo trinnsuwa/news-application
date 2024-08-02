@@ -1,0 +1,937 @@
+{
+   "status":"success",
+   "items":[
+      {
+         "title":"Biden proposed enforceable ethics code and term limits for Supreme Court. How might they work?",
+         "snippet":"WASHINGTON (AP) — President Joe Biden on Monday proposed major changes for the U.S. Supreme Court: an enforceable code of ethics, term limits for justices ...",
+         "publisher":"The Associated Press",
+         "timestamp":"1722311700000",
+         "newsUrl":"https://apnews.com/article/supreme-court-biden-ethics-term-limits-b281a03f8ce2df60109f60722619cc4d",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNUxTM2RpWkV4VVQzZFJXa2hGVFJDV0F4alFCU2dLTWdZMUpaS1BtUWs=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNUxTM2RpWkV4VVQzZFJXa2hGVFJDV0F4alFCU2dLTWdZMUpaS1BtUWs"
+         },
+         "hasSubnews":true,
+         "subnews":[
+            {
+               "title":"Biden calls Speaker Johnson ‘dead on arrival’ in odd response to criticism of proposed radical SCOTUS changes",
+               "snippet":"President Biden called House Speaker Mike Johnson \"dead on arrival\" during a strange interaction with a reporter on Monday. The exchange came shortly after ...",
+               "publisher":"Fox News",
+               "timestamp":"1722307200000",
+               "newsUrl":"https://www.foxnews.com/politics/biden-calls-speaker-johnson-dead-arrival-odd-response-criticism-proposed-radical-scotus-changes",
+               "images":{
+                  "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNXVOMHhrVG14VFp6UmFkakoyVFJDZkF4ampCU2dLTWdZRlFKaUdIZ28=-w280-h168-p-df-rw",
+                  "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNXVOMHhrVG14VFp6UmFkakoyVFJDZkF4ampCU2dLTWdZRlFKaUdIZ28"
+               }
+            },
+            {
+               "title":"Supreme Court Puppetmaster Accuses Dems of Corruption, Lists His Nefarious Tactics Instead",
+               "snippet":"The Supreme Court puppetmaster suggests Democrats should focus on “the real corruption,\" and ends up disclosing his own tricks for influencing judges.",
+               "publisher":"Rolling Stone",
+               "timestamp":"1722340800000",
+               "newsUrl":"https://www.rollingstone.com/politics/politics-features/supreme-court-leonard-leo-reforms-corruption-1235070458/",
+               "images":{
+                  "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNTVSRlZDV1RWblpGbEpXWGQ2VFJERUF4aW1CU2dLTWdhcFpaTE5LUWc=-w280-h168-p-df-rw",
+                  "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNTVSRlZDV1RWblpGbEpXWGQ2VFJERUF4aW1CU2dLTWdhcFpaTE5LUWc"
+               }
+            },
+            {
+               "title":"Opinion | Biden’s Political Assault on the Supreme Court",
+               "snippet":"President Biden on Monday announced his plan to “reform” the Supreme Court, and it's important to understand how radical this political moment is.",
+               "publisher":"The Wall Street Journal",
+               "timestamp":"1722290460000",
+               "newsUrl":"https://www.wsj.com/articles/joe-biden-supreme-court-term-limits-code-of-conduct-kamala-harris-donald-trump-53a970a2",
+               "images":{
+                  "thumbnail":"https://news.google.com/api/attachments/CC8iJ0NnNHhOakEyVWpBNFZWbDFNMEpGVFJERUF4aW1CU2dLTWdNQjRBUQ=-w280-h168-p-df-rw",
+                  "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iJ0NnNHhOakEyVWpBNFZWbDFNMEpGVFJERUF4aW1CU2dLTWdNQjRBUQ"
+               }
+            },
+            {
+               "title":"'No one is above the law': Biden calls for sweeping Supreme Court changes",
+               "snippet":"WASHINGTON − President Joe Biden called for major changes to the Supreme Court on Monday, including legislation to impose 18-year term limits and enforce a ...",
+               "publisher":"USA TODAY",
+               "timestamp":"1722291525000",
+               "newsUrl":"https://www.usatoday.com/story/news/politics/2024/07/29/biden-supreme-court-reform-presidential-immunity-term-limits/74583088007/",
+               "images":{
+                  "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNUtXRFl5TFc0MVJHWmxaVkpKVFJEekFoaVVCU2dLTWdhcGRZYk9xUWM=-w280-h168-p-df-rw",
+                  "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNUtXRFl5TFc0MVJHWmxaVkpKVFJEekFoaVVCU2dLTWdhcGRZYk9xUWM"
+               }
+            },
+            {
+               "title":"Biden’s plan to Venezuela-ize the US Supreme Court",
+               "snippet":"President Joe Biden is calling for Supreme Court reform, including 18-year term limits and an enforceable code of ethics, similar to the reforms implemented ...",
+               "publisher":"The Hill",
+               "timestamp":"1722345300000",
+               "newsUrl":"https://thehill.com/opinion/4798691-biden-supreme-court-reform/",
+               "images":{
+                  "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNWxOSGgwUzJWSE1rMWZSRVkwVFJERUF4aW1CU2dLTWdhOU00WlNIUWs=-w280-h168-p-df-rw",
+                  "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNWxOSGgwUzJWSE1rMWZSRVkwVFJERUF4aW1CU2dLTWdhOU00WlNIUWs"
+               }
+            },
+            {
+               "title":"Opinion | The Election Is Crucial to the Supreme Court’s Future. Biden’s Reform Plans Are Not.",
+               "snippet":"President Biden on Monday proposed term limits and an ethics code for Supreme Court justices. Those reforms are unquestionably desirable but they have ...",
+               "publisher":"The New York Times",
+               "timestamp":"1722330269000",
+               "newsUrl":"https://www.nytimes.com/2024/07/30/opinion/biden-supreme-court-limits.html",
+               "images":{
+                  "thumbnail":"https://news.google.com/api/attachments/CC8iJ0NnNUVaMVZmVkZscVExbzRlbVpTVFJDUUF4allCQ2dLTWdNQlVSUQ=-w280-h168-p-df-rw",
+                  "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iJ0NnNUVaMVZmVkZscVExbzRlbVpTVFJDUUF4allCQ2dLTWdNQlVSUQ"
+               }
+            }
+         ]
+      },
+      {
+         "title":"Taylor Swift ‘in shock’ after stabbing rampage at English children’s dance class leaves three dead and more injured",
+         "snippet":"Taylor Swift has said she is “completely in shock” after a stabbing attack at a dance class celebrating the US singer's music in Southport, England left ...",
+         "publisher":"CNN",
+         "timestamp":"1722342900000",
+         "newsUrl":"https://www.cnn.com/2024/07/30/uk/taylor-swift-southport-stabbing-reaction-gbr-intl/index.html",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNURRWGRST1V4UmJEQndaRjlUVFJDZkF4ampCU2dLTWdZQklKeUtsUWs=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNURRWGRST1V4UmJEQndaRjlUVFJDZkF4ampCU2dLTWdZQklKeUtsUWs"
+         },
+         "hasSubnews":true,
+         "subnews":[
+            {
+               "title":"Third Child, a 9-Year-Old Girl, Dies After Stabbing at Taylor Swift-Themed Event in Southport",
+               "snippet":"A third child, a 9-year-old girl, has died after a stabbing at a Taylor Swift-themed dance and yoga event in Southport, England on July 29, ...",
+               "publisher":"PEOPLE",
+               "timestamp":"1722342685000",
+               "newsUrl":"https://people.com/third-child-dies-stabbing-taylor-swift-themed-event-southport-england-8685783",
+               "images":{
+                  "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNDFPVTFhVm1kSVQzTjZVazVtVFJERUF4aW1CU2dLTWdZTkVKQXBFZ28=-w280-h168-p-df-rw",
+                  "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNDFPVTFhVm1kSVQzTjZVazVtVFJERUF4aW1CU2dLTWdZTkVKQXBFZ28"
+               }
+            },
+            {
+               "title":"UK police search for motive in deadly attack at Taylor Swift-themed event, as musician says she's 'in shock'",
+               "snippet":"Police investigating the deadly attack on a children's music event in a seaside town of Southport, United Kingdom, said they would interview the 17-year-old ...",
+               "publisher":"Yahoo! Voices",
+               "timestamp":"1722334132000",
+               "newsUrl":"https://www.yahoo.com/gma/uk-police-search-motive-deadly-100852354.html",
+               "images":{
+                  "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNUZkM05QYjJ0MVprSnhaRkpyVFJEb0FoaUFCU2dLTWdZQlFJNWhIZ2c=-w280-h168-p-df-rw",
+                  "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNUZkM05QYjJ0MVprSnhaRkpyVFJEb0FoaUFCU2dLTWdZQlFJNWhIZ2c"
+               }
+            },
+            {
+               "title":"Third child dies after stabbing at Taylor Swift-themed dance class",
+               "snippet":"LONDON — A third child has died following a mass stabbing at a Taylor Swift-themed yoga and dance class in Southport, North West England, ...",
+               "publisher":"The Washington Post",
+               "timestamp":"1722344856000",
+               "newsUrl":"https://www.washingtonpost.com/world/2024/07/30/taylor-swift-southport-stabbing-attack/",
+               "images":{
+                  "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNUhObnBVWlRBMmMwdGxlWFZzVFJES0F4aWVCU2dLTWdZQmdJNmtOQVk=-w280-h168-p-df-rw",
+                  "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNUhObnBVWlRBMmMwdGxlWFZzVFJES0F4aWVCU2dLTWdZQmdJNmtOQVk"
+               }
+            },
+            {
+               "title":"First named child victim, nine, of Southport stabbing attack is Portuguese girl whose parents are 'desolate an",
+               "snippet":"One of the three children killed in the horror Southport stabbing attack was today named as Alice Aguiar, as her devastated loved ones said their princess ...",
+               "publisher":"Daily Mail",
+               "timestamp":"1722343063000",
+               "newsUrl":"https://www.dailymail.co.uk/news/article-13688369/Fly-high-little-star-love-named-child-victim-nine-Southport-stabbing-attack-Portuguese-girl-parents-desolate-broken-murder-tributes-pour-happy-smiley-girl-bright-life-ahead.html",
+               "images":{
+                  "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNTBiVFo0VldSSVpXcGFkR0ZsVFJDZkF4ampCU2dLTWdZQkE0Z1RDUXc=-w280-h168-p-df-rw",
+                  "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNTBiVFo0VldSSVpXcGFkR0ZsVFJDZkF4ampCU2dLTWdZQkE0Z1RDUXc"
+               }
+            },
+            {
+               "title":"Taylor Swift says she is ‘in shock’ after 3 children died in an attack on a UK dance class",
+               "snippet":"British police are questioning a suspect and working to understand what motivated a 17-year-old boy to attack children at a Taylor Swift-themed dance and ...",
+               "publisher":"The Associated Press",
+               "timestamp":"1722340320000",
+               "newsUrl":"https://apnews.com/article/uk-southport-children-stabbed-dance-class-8a9c7d7ed01441ce96332cd3d1250e43",
+               "images":{
+                  "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNXJSVU5HV1hCMlRubFNPVWM0VFJDUEF4alhCQ2dLTWdhQklveUxIUWs=-w280-h168-p-df-rw",
+                  "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNXJSVU5HV1hCMlRubFNPVWM0VFJDUEF4alhCQ2dLTWdhQklveUxIUWs"
+               }
+            },
+            {
+               "title":"Taylor Swift Says She Is “At A Complete Loss” After Tragic UK Dance Class Stabbings",
+               "snippet":"Taylor Swifts has posted a statement on the Southport Stabbings that took place at a Taylor Swift themed dance class.",
+               "publisher":"Deadline",
+               "timestamp":"1722333180000",
+               "newsUrl":"https://deadline.com/2024/07/taylor-swift-statement-southport-stabbings-dance-class-1236026327/",
+               "images":{
+                  "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNHpNMVk1ZVhCcWMyRlpRbE13VFJEX0FoaXBCU2dLTWdZdEpZck5GUW8=-w280-h168-p-df-rw",
+                  "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNHpNMVk1ZVhCcWMyRlpRbE13VFJEX0FoaXBCU2dLTWdZdEpZck5GUW8"
+               }
+            }
+         ]
+      },
+      {
+         "title":"In photos: Venezuela protests surge over Maduro election results",
+         "snippet":"A riot police officer uses tear gas against demonstrators during a protest by opponents of Venezuelan President Nicolás Maduro's government in the Catia ...",
+         "publisher":"Axios",
+         "timestamp":"1722313919000",
+         "newsUrl":"https://www.axios.com/2024/07/29/venezuela-election-protests-nicolas-maduro-photos",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNVZOSHBuT1ZOVFMwSnJiVkYxVFJDZkF4ampCU2dLTWdZVk01SndtUWM=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNVZOSHBuT1ZOVFMwSnJiVkYxVFJDZkF4ampCU2dLTWdZVk01SndtUWM"
+         },
+         "hasSubnews":true,
+         "subnews":[
+            {
+               "title":"Protests erupt in Venezuela as questions grow over strongman Maduro’s victory",
+               "snippet":"Protests broke out in several Venezuelan cities on Monday after authoritarian leader Nicolás Maduro was formally declared a winner by the county's electoral ...",
+               "publisher":"CNN",
+               "timestamp":"1722304724000",
+               "newsUrl":"https://www.cnn.com/2024/07/29/americas/venezuela-election-results-maduro-opposition-intl-latam/index.html",
+               "images":{
+                  "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNHlSMjAxYTJ3MGVHY3pTemwxVFJDb0FSaXNBaWdCTWdZQlFJcU5zUVU=-w280-h168-p-df-rw",
+                  "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNHlSMjAxYTJ3MGVHY3pTemwxVFJDb0FSaXNBaWdCTWdZQlFJcU5zUVU"
+               }
+            },
+            {
+               "title":"The Venezuela That Defied Maduro",
+               "snippet":"A restaurant isn't allowed to sell empanadas to a candidate who isn't allowed run—in an election the opposition isn't allowed to win.",
+               "publisher":"The Atlantic",
+               "timestamp":"1722337200000",
+               "newsUrl":"https://www.theatlantic.com/international/archive/2024/07/venezuela-2024-election-fraud/679284/",
+               "images":{
+                  "thumbnail":"https://news.google.com/api/attachments/CC8iMkNnNXJPSGRPTFcxb2FuQkRRbFJrVFJDZkF4ampCU2dLTWdzQkFKS3JKS2ZJcEpxRHVB=-w280-h168-p-df-rw",
+                  "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iMkNnNXJPSGRPTFcxb2FuQkRRbFJrVFJDZkF4ampCU2dLTWdzQkFKS3JKS2ZJcEpxRHVB"
+               }
+            },
+            {
+               "title":"Venezuela opposition says its victory is irreversible, citing 73% of vote tallies",
+               "snippet":"Venezuela opposition leader Maria Corina Machado said on Monday the country's opposition has 73.2% of the voting tallies from Sunday's election, ...",
+               "publisher":"Reuters Canada",
+               "timestamp":"1722303675000",
+               "newsUrl":"https://www.reuters.com/world/americas/government-opposition-both-claim-venezuela-election-win-official-results-2024-07-29/",
+               "images":{
+                  "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNVZRMlJ0YldkeFdXVmtXa1U0VFJERUF4aW1CU2dLTWdhbHRZRHN3UU0=-w280-h168-p-df-rw",
+                  "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNVZRMlJ0YldkeFdXVmtXa1U0VFJERUF4aW1CU2dLTWdhbHRZRHN3UU0"
+               }
+            },
+            {
+               "title":"Protests erupt in Venezuela as opposition alleges election was stolen",
+               "snippet":"Demonstrations erupted over the victory declared for Nicolas Maduro in the disputed presidential election.",
+               "publisher":"Al Jazeera English",
+               "timestamp":"1722341412000",
+               "newsUrl":"https://www.aljazeera.com/program/newsfeed/2024/7/30/protests-erupt-in-venezuela-as-opposition-alleges-election-was-stolen",
+               "images":{
+                  "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNWZjakZQY25VMVQwSk1PV0kwVFJDZkF4ampCU2dLTWdZUmNJNnR3UVE=-w280-h168-p-df-rw",
+                  "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNWZjakZQY25VMVQwSk1PV0kwVFJDZkF4ampCU2dLTWdZUmNJNnR3UVE"
+               }
+            },
+            {
+               "title":"OAS Department Says Results Announced by Venezuela Cannot Be Recognized",
+               "snippet":"(Reuters) - The Organization of American States' electoral observation department said on Tuesday it cannot recognize the results proclaimed by Venezuela's ...",
+               "publisher":"U.S. News & World Report",
+               "timestamp":"1722343680000",
+               "newsUrl":"https://www.usnews.com/news/world/articles/2024-07-30/oas-department-says-results-announced-by-venezuela-cannot-be-recognized",
+               "images":{
+                  "thumbnail":"https://news.google.com/api/attachments/CC8iJ0NnNVhlaTAyVEd4VGNEWXdkR1k0VFJDa0F4aUFCU2dLTWdNQmRBQQ=-w280-h168-p-df-rw",
+                  "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iJ0NnNVhlaTAyVEd4VGNEWXdkR1k0VFJDa0F4aUFCU2dLTWdNQmRBQQ"
+               }
+            },
+            {
+               "title":"What Happened to Venezuela’s Democracy?",
+               "snippet":"A movement started by Hugo Chávez, promising power to the people, became an authoritarian regime, one that opponents say just stole an election.",
+               "publisher":"The New York Times",
+               "timestamp":"1722330279000",
+               "newsUrl":"https://www.nytimes.com/2024/07/30/world/americas/venezuela-election-maduro-chavez.html",
+               "images":{
+                  "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNHdSa3BpZG0xaE0zcHNkMmxDVFJDUUF4allCQ2dLTWdZQk1KcUVuUWs=-w280-h168-p-df-rw",
+                  "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNHdSa3BpZG0xaE0zcHNkMmxDVFJDUUF4allCQ2dLTWdZQk1KcUVuUWs"
+               }
+            }
+         ]
+      },
+      {
+         "title":"Live Election Updates: Harris Looks to Swing Democrats’ Outlook in Georgia",
+         "snippet":"Kamala Harris will hold a rally in Atlanta tonight with some star power: The rapper Megan Thee Stallion is joining her. Senator JD Vance will be in Nevada, ...",
+         "publisher":"The New York Times",
+         "timestamp":"1722341094000",
+         "newsUrl":"https://www.nytimes.com/live/2024/07/30/us/harris-trump-election",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNVNUREp3ZEVSWVdqVnRZMTkwVFJDUUF4allCQ2dLTWdZQlFJU290QVE=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNVNUREp3ZEVSWVdqVnRZMTkwVFJDUUF4allCQ2dLTWdZQlFJU290QVE"
+         },
+         "hasSubnews":true,
+         "subnews":[
+            {
+               "title":"Democrats had feared Georgia was a lost cause with Biden running. Harris will campaign there Tuesday",
+               "snippet":"Now that Biden has bowed out of the race and Vice President Kamala Harris is the likely nominee, Democrats say they have new hope for the state.",
+               "publisher":"The Associated Press",
+               "timestamp":"1722312480000",
+               "newsUrl":"https://apnews.com/article/harris-georgia-trump-rally-atlanta-4454ff5825d8f6cf90929147f5b84a71",
+               "images":{
+                  "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNHdkMDlHTWtaelFsZFNRbFo1VFJDUEF4alhCQ2dLTWdhdEpZU3VGUW8=-w280-h168-p-df-rw",
+                  "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNHdkMDlHTWtaelFsZFNRbFo1VFJDUEF4alhCQ2dLTWdhdEpZU3VGUW8"
+               }
+            },
+            {
+               "title":"Harris Gains With Black Voters, Makes a Play for Georgia",
+               "snippet":"Democrats hope rising enthusiasm among Black voters will help Vice President Kamala Harris put Georgia back in play, looking to reverse Republican ...",
+               "publisher":"The Wall Street Journal",
+               "timestamp":"1722330000000",
+               "newsUrl":"https://www.wsj.com/politics/elections/kamala-harris-black-voters-georgia-a3b758b6",
+               "images":{
+                  "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNTZOQzE2U1ZCRE1XRlFXR3czVFJERUF4aW5CU2dLTWdZeEpJaFJHUW8=-w280-h168-p-df-rw",
+                  "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNTZOQzE2U1ZCRE1XRlFXR3czVFJERUF4aW5CU2dLTWdZeEpJaFJHUW8"
+               }
+            },
+            {
+               "title":"Megan Thee Stallion to Join Kamala Harris During Rally in Atlanta for Special Performance",
+               "snippet":"Megan Thee Stallion is the next celebrity to support Vice President Harris's presidential run.",
+               "publisher":"Billboard",
+               "timestamp":"1722295227000",
+               "newsUrl":"https://www.billboard.com/music/rb-hip-hop/megan-thee-stallion-kamala-harris-rally-atlanta-1235742703/",
+               "images":{
+                  "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNXRSMFkwUW1GNVNFNWliRFJYVFJERUF4aW1CU2dLTWdZZG1JUkpzZ1k=-w280-h168-p-df-rw",
+                  "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNXRSMFkwUW1GNVNFNWliRFJYVFJERUF4aW1CU2dLTWdZZG1JUkpzZ1k"
+               }
+            }
+         ]
+      },
+      {
+         "title":"Trump says Vance's 'childless cat ladies' comments reflect love of family",
+         "snippet":"Republican presidential candidate Donald Trump on Monday backed his running mate, Senator JD Vance, over past comments about \"childless cat ladies\" that ...",
+         "publisher":"Reuters",
+         "timestamp":"1722300405000",
+         "newsUrl":"https://www.reuters.com/world/us/trump-says-vances-childless-cat-ladies-comments-reflect-love-family-2024-07-30/",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iL0NnNVhZVnBmUVRJMlFrcEphSFJ5VFJDOUF4aXhCU2dLTWdtUlFacElIaWs5U1FJ=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iL0NnNVhZVnBmUVRJMlFrcEphSFJ5VFJDOUF4aXhCU2dLTWdtUlFacElIaWs5U1FJ"
+         },
+         "hasSubnews":true,
+         "subnews":[
+            {
+               "title":"It’s not just ‘cat ladies’: JD Vance has a history of disparaging people without kids",
+               "snippet":"Republican vice presidential nominee Sen. JD Vance has a history of making disparaging remarks toward people without children, a CNN KFile review of his ...",
+               "publisher":"CNN",
+               "timestamp":"1722330000000",
+               "newsUrl":"https://www.cnn.com/2024/07/30/politics/kfile-jd-vance-history-disparaging-people-without-kids/index.html",
+               "images":{
+                  "thumbnail":"https://news.google.com/api/attachments/CC8iL0NnNDFZV1J6U0hwSmN6TlFhRzFpVFJDZkF4amlCU2dLTWdrTk00b1RsYXF4RXdF=-w280-h168-p-df-rw",
+                  "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iL0NnNDFZV1J6U0hwSmN6TlFhRzFpVFJDZkF4amlCU2dLTWdrTk00b1RsYXF4RXdF"
+               }
+            },
+            {
+               "title":"JD Vance’s Catholic conversion is part of young conservative movement",
+               "snippet":"JD Vance's beloved grandmother — Mamaw, as he called her — hated organized religion, didn't go to church and hung a drawing of Jesus in her house that ...",
+               "publisher":"The Washington Post",
+               "timestamp":"1722272442000",
+               "newsUrl":"https://www.washingtonpost.com/nation/2024/07/29/jd-vance-religion-catholic-republican-vp/",
+               "images":{
+                  "thumbnail":"https://news.google.com/api/attachments/CC8iMkNnNU9YMlpFWXpSUVRYbHFjVGhqVFJERUF4aW1CU2dLTWd1QlVJb3FKZVkxRW5tc1V3=-w280-h168-p-df-rw",
+                  "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iMkNnNU9YMlpFWXpSUVRYbHFjVGhqVFJERUF4aW1CU2dLTWd1QlVJb3FKZVkxRW5tc1V3"
+               }
+            },
+            {
+               "title":"The Democratic Party has become anti-family: JD Vance",
+               "snippet":"GOP vice presidential nominee JD Vance responds to criticism over previous remarks he made about 'childless cat ladies' on 'Sunday Night in America.'",
+               "publisher":"Fox News",
+               "timestamp":"1722216136000",
+               "newsUrl":"https://www.foxnews.com/video/6359536060112",
+               "images":{
+                  "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNDFPRzU1UjBaM1NFVkVOVmsyVFJDSEF4aVBCaWdLTWdZbGRZQ3VyUVk=-w280-h168-p-df-rw",
+                  "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNDFPRzU1UjBaM1NFVkVOVmsyVFJDSEF4aVBCaWdLTWdZbGRZQ3VyUVk"
+               }
+            },
+            {
+               "title":"Some House Republicans slam Vance as Trump’s VP pick: ‘The worst choice’",
+               "snippet":"A number of House Republicans are privately bashing former President Trump's selection of Sen. JD Vance (R-Ohio) as his running mate, warning that the pick ...",
+               "publisher":"The Hill",
+               "timestamp":"1721986200000",
+               "newsUrl":"https://thehill.com/homenews/4793818-vance-vp-trump-house-republicans/",
+               "images":{
+                  "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNTNkMmhQWVhCdFYwVnRPRWh0VFJDZkF4ampCU2dLTWdhcFJZVE5JUWc=-w280-h168-p-df-rw",
+                  "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNTNkMmhQWVhCdFYwVnRPRWh0VFJDZkF4ampCU2dLTWdhcFJZVE5JUWc"
+               }
+            },
+            {
+               "title":"Fox Star Brian Kilmeade Lashes Vance Over ‘Cat Ladies’: ‘Losing’",
+               "snippet":"The Fox & Friends co-host warned that harder Vance tries to reframe his remarks about childless cat ladies, the tougher it gets for him.",
+               "publisher":"The Daily Beast",
+               "timestamp":"1722282954000",
+               "newsUrl":"https://www.thedailybeast.com/fox-news-host-warns-jd-vance-is-probably-losing-over-cat-ladies-excuses",
+               "images":{
+                  "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNU5VRUo2YVhOQlUydDRRVkpsVFJDb0FSaXJBaWdCTWdZdGRKQ3ZMUWM=-w280-h168-p-df-rw",
+                  "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNU5VRUo2YVhOQlUydDRRVkpsVFJDb0FSaXJBaWdCTWdZdGRKQ3ZMUWM"
+               }
+            }
+         ]
+      },
+      {
+         "title":"Park fire: California blaze grows to 6th largest as suspect faces court",
+         "snippet":"A man has faced court accused of starting a California wildfire that has burned through more than 370,000 acres of land, destroyed scores of buildings and ...",
+         "publisher":"BBC.com",
+         "timestamp":"1722301845000",
+         "newsUrl":"https://www.bbc.com/news/articles/c6p2mrr49mno",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNWhiMHd4VjJGS2VGUlVjSGhyVFJDZkF4ampCU2dLTWdhdE1ZeHdHUWs=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNWhiMHd4VjJGS2VGUlVjSGhyVFJDZkF4ampCU2dLTWdhdE1ZeHdHUWs"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"Hurricane Season Awakens: Tropical Storm Could Form Late This Week Near Bahamas, Florida",
+         "snippet":"The post-Beryl lull is coming to an end. Here's the latest on a system we're watching. - Articles from The Weather Channel | weather.com.",
+         "publisher":"The Weather Channel",
+         "timestamp":"1722333600000",
+         "newsUrl":"https://weather.com/storms/hurricane/news/2024-07-29-tropical-storm-possible-bahamas-southeast-us",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNUhTMkpUWWxwT2JqUXdUemMzVFJDMEFSakFBaWdLTWdhQlpvZ25NZ1k=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNUhTMkpUWWxwT2JqUXdUemMzVFJDMEFSakFBaWdLTWdhQlpvZ25NZ1k"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"Woman found dead on picnic table at park pavilion",
+         "snippet":"A 19-year-old woman has been found dead on a picnic table under a pavilion at a park in North Carolina, police say.",
+         "publisher":"ABC News",
+         "timestamp":"1722333107000",
+         "newsUrl":"https://abcnews.go.com/US/woman-found-dead-picnic-table-park-pavilion/story?id=112393623",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNXlhSEJCTkRCTU5ubFhNV3RpVFJDZkF4ampCU2dLTWdZQlVKSWl1UVk=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNXlhSEJCTkRCTU5ubFhNV3RpVFJDZkF4ampCU2dLTWdZQlVKSWl1UVk"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"Israeli protesters enter Sde Teiman army base after soldiers held over Gaza detainee abuse",
+         "snippet":"Warning: this story contains a description of alleged sexual abuse. Israeli far-right protesters broke into an army base in a show of support for soldiers ...",
+         "publisher":"BBC.com",
+         "timestamp":"1722341446000",
+         "newsUrl":"https://www.bbc.com/news/articles/c2q07kd3ld6o",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iJ0NnNVVTbmRNUjJWeGMzRXRkMGg0VFJDZkF4ampCU2dLTWdNQk1BZw=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iJ0NnNVVTbmRNUjJWeGMzRXRkMGg0VFJDZkF4ampCU2dLTWdNQk1BZw"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"Fred Trump III calls uncle Donald Trump 'atomic crazy,' says he used racial slur decades ago",
+         "snippet":"Fred Trump III, the son of the former president's late older brother, spoke with ABC News about his new book, \"All in the Family: The Trumps and How We Got ...",
+         "publisher":"ABC News",
+         "timestamp":"1722336750000",
+         "newsUrl":"https://abcnews.go.com/US/fred-trump-iii-calls-uncle-donald-trump-atomic/story?id=112389846",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNWZZMHhhUVdoSWRFNWlNRUpyVFJDZkF4ampCU2dLTWdZdFpZNnVLUWM=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNWZZMHhhUVdoSWRFNWlNRUpyVFJDZkF4ampCU2dLTWdZdFpZNnVLUWM"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"NWS issues flash flood emergency for parts of Northeast Kingdom",
+         "snippet":"The National Weather Service is reporting life-threatening flooding in the Northeast Kingdom.Flash flood emergencies are rare and pose a severe threat to ...",
+         "publisher":"Vermont Public",
+         "timestamp":"1722336300000",
+         "newsUrl":"https://www.vermontpublic.org/local-news/2024-07-30/nws-issues-flash-flood-emergency-for-northeast-kingdom",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNTJWa2xWTkVSVk5GQndObXBHVFJEX0FoaWhCaWdLTWdZZE01N3JtUWs=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNTJWa2xWTkVSVk5GQndObXBHVFJEX0FoaWhCaWdLTWdZZE01N3JtUWs"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"Secret Service and FBI officials will testify about Trump assassination attempt in latest hearing",
+         "snippet":"WASHINGTON (AP) — Senate lawmakers are expected Tuesday to grill the acting director of the Secret Service about law enforcement lapses in the hours before ...",
+         "publisher":"The Associated Press",
+         "timestamp":"1722336720000",
+         "newsUrl":"https://apnews.com/article/trump-assassination-attempt-fbi-secret-service-a382e3ec081dd13e85eaa9e726cca02c",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iI0NnNHlia0pVV2xKRVN6Qk1hRWxhVFJEVkFSakFBaWdLTWdB=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iI0NnNHlia0pVV2xKRVN6Qk1hRWxhVFJEVkFSakFBaWdLTWdB"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"Mark Ruffalo, Mark Hamill, Josh Gad, Pete Buttigieg, and Jeff Bridges show up at White Dudes for Harris Zoom",
+         "snippet":"A Zoom call inspired by Black Women for Harris raised more than $3m. But can Harris crack enough white support?",
+         "publisher":"The Independent",
+         "timestamp":"1722309461000",
+         "newsUrl":"https://www.independent.co.uk/news/world/americas/us-politics/white-dudes-harris-zoom-ruffalo-b2587989.html",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNDRVak5STlZVd1lsRkJSWFEwVFJERUF4aW1CU2dLTWdZaEE0NU1FUXM=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNDRVak5STlZVd1lsRkJSWFEwVFJERUF4aW1CU2dLTWdZaEE0NU1FUXM"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"Wayanad: Massive landslides kill 93, trap dozens in Kerala",
+         "snippet":"At least 93 people have been killed and dozens are still feared trapped after heavy rains triggered massive landslides in the southern Indian state of ...",
+         "publisher":"BBC.com",
+         "timestamp":"1722345040000",
+         "newsUrl":"https://www.bbc.com/news/articles/c51y7k2y7v1o",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNHhRVFZqVW05WFZXSklkR2R3VFJDZkF4ampCU2dLTWdZSklwTG9tQW8=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNHhRVFZqVW05WFZXSklkR2R3VFJDZkF4ampCU2dLTWdZSklwTG9tQW8"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"Kari Lake aims to win GOP primary for closely watched Arizona Senate race",
+         "snippet":"Kari Lake is looking to easily win Arizona's Republican nomination for U.S. Senate. The primary Tuesday will likely set up a fierce battle against Rep.",
+         "publisher":"The Associated Press",
+         "timestamp":"1722312840000",
+         "newsUrl":"https://apnews.com/article/arizona-primary-kari-lake-3735ed2216bb21355af530f0dd01f02c",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iL0NnNTBVMHh3TlhFMk0zaDNNREJtVFJEVkFSakFBaWdLTWdtSllaTEZzbVk5NmdF=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iL0NnNTBVMHh3TlhFMk0zaDNNREJtVFJEVkFSakFBaWdLTWdtSllaTEZzbVk5NmdF"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"Video shows LAPD officer punch handcuffed man during arrest in Watts",
+         "snippet":"The Los Angeles Police Department has launched an investigation after video showed an officer punch a handcuffed man during an arrest in Watts.",
+         "publisher":"KABC-TV",
+         "timestamp":"1722305804000",
+         "newsUrl":"https://abc7.com/post/lapd-officer-punches-handcuffed-man-during-arrest-watts/15119054/",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNVFVazE0VEdKb2RVNVNUMEZSVFJDZkF4ampCU2dLTWdZbE1Kak9uUWs=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNVFVazE0VEdKb2RVNVNUMEZSVFJDZkF4ampCU2dLTWdZbE1Kak9uUWs"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"El Chapo’s son set to appear in court today after stunning Sinaloa cartel arrest",
+         "snippet":"Joaquín Guzmán López, the son of the former Sinaloa cartel boss Joaquín “El Chapo” Guzmán, is set to appear in federal court in Chicago Tuesday, ...",
+         "publisher":"CNN",
+         "timestamp":"1722333660000",
+         "newsUrl":"https://www.cnn.com/2024/07/30/us/el-chapo-son-court-appearance/index.html",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iL0NnNHhiR0ZIUkVwaFlWazJiV3RoVFJDZkF4ampCU2dLTWdrSmNZVFZxS2VoVGdF=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iL0NnNHhiR0ZIUkVwaFlWazJiV3RoVFJDZkF4ampCU2dLTWdrSmNZVFZxS2VoVGdF"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"Sheriff in charge of deputy who killed Sonya Massey declines to resign, asks for forgiveness",
+         "snippet":"SPRINGFIELD, Ill. – An Illinois sheriff who hired the deputy charged with killing Sonya Massey in her own kitchen asked for the public's forgiveness Monday, ...",
+         "publisher":"USA TODAY",
+         "timestamp":"1722309462000",
+         "newsUrl":"https://www.usatoday.com/story/news/nation/2024/07/29/sonya-massey-listening-session/74596129007/",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iL0NnNUhNVk13TlZwT1FucGphbmRQVFJEekFoaVVCU2dLTWdrQklKb0twdWhFcGdJ=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iL0NnNUhNVk13TlZwT1FucGphbmRQVFJEekFoaVVCU2dLTWdrQklKb0twdWhFcGdJ"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"D.C.-area forecast: Storms are possible late today ahead of a hotter Wednesday",
+         "snippet":"Upper 90s are possible by Thursday, and storm chances return Friday and Saturday.",
+         "publisher":"The Washington Post",
+         "timestamp":"1722344519000",
+         "newsUrl":"https://www.washingtonpost.com/weather/2024/07/30/dc-area-forecast-storms-humid/",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iJ0NnNHdVWE16VUVsa1JIVlNVRnBhVFJEZ0F4aUFCU2dLTWdPaGNBSQ=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iJ0NnNHdVWE16VUVsa1JIVlNVRnBhVFJEZ0F4aUFCU2dLTWdPaGNBSQ"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"Elon Musk Attacks Gavin Newsom in Phallic Online Rant: ‘Deeznutz’",
+         "snippet":"The California governor had lashed out at Musk for sharing a doctored video of Kamala Harris.",
+         "publisher":"The Daily Beast",
+         "timestamp":"1722290715000",
+         "newsUrl":"https://www.thedailybeast.com/elon-musk-attacks-gavin-newsom-in-phallic-online-rant-deeznutz",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iL0NnNTRUR2RRYzJrNVMwaEhZalZLVFJDb0FSaXJBaWdCTWdrSlVwcjFwR2k1U1FJ=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iL0NnNTRUR2RRYzJrNVMwaEhZalZLVFJDb0FSaXJBaWdCTWdrSlVwcjFwR2k1U1FJ"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"Trump agrees to be interviewed as part of an investigation into his assassination attempt, FBI says",
+         "snippet":"The FBI says former President Donald Trump has agreed to be interviewed as part of its investigation into his attempted assassination in Pennsylvania.",
+         "publisher":"The Associated Press",
+         "timestamp":"1722297420000",
+         "newsUrl":"https://apnews.com/article/trump-assassination-attempt-fbi-9c3838fcf9753b3e61caf97804112fca",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNHlia0pVV2xKRVN6Qk1hRWxhVFJEVkFSakFBaWdLTWdhZFlJUXExZ0k=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNHlia0pVV2xKRVN6Qk1hRWxhVFJEVkFSakFBaWdLTWdhZFlJUXExZ0k"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"Tamara Keith and Amy Walter on the sustainability of Harris' campaign momentum",
+         "snippet":"NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including the ...",
+         "publisher":"PBS NewsHour",
+         "timestamp":"1722292248000",
+         "newsUrl":"https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-the-sustainability-of-harris-campaign-momentum",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iL0NnNU1ZV1J0UmxKaFdsVTJSVkJwVFJDZkF4ampCU2dLTWdtVlVaaldvQ2lhU1FJ=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iL0NnNU1ZV1J0UmxKaFdsVTJSVkJwVFJDZkF4ampCU2dLTWdtVlVaaldvQ2lhU1FJ"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"Multiple Agencies Continue to Respond to Alexander Mountain Fire",
+         "snippet":"Multiple Agencies Continue to Respond to Alexander Mountain FireAs of 7:45pm, the Alexander Mountain Fire was estimated to be 950 acres with 0% containment.",
+         "publisher":"Larimer County",
+         "timestamp":"1722308114000",
+         "newsUrl":"https://www.larimer.gov/spotlights/2024/07/29/multiple-agencies-continue-respond-alexander-mountain-fire",
+         "hasSubnews":false
+      },
+      {
+         "title":"Northern lights could appear in New England as solar flares explode off sun",
+         "snippet":"BOSTON - Forecasters believe that there is a legitimate chance for northern lights sightings in New England over the next few nights.",
+         "publisher":"CBS Boston",
+         "timestamp":"1722331753000",
+         "newsUrl":"https://www.cbsnews.com/boston/news/northern-lights-cannibal-solar-flares-massachusetts/",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNUlTRkZ1TnpGZmQxSkdWV2hRVFJDUkF4ajhCU2dLTWdhQkFveHJtUWc=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNUlTRkZ1TnpGZmQxSkdWV2hRVFJDUkF4ajhCU2dLTWdhQkFveHJtUWc"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"Ingraham presses Trump on telling Christians ‘You won’t have to vote anymore’ in 4 years",
+         "snippet":"Fox News host Laura Ingraham on Monday repeatedly prodded former President Trump over his comments at a conservative Christian summit, where he told ...",
+         "publisher":"The Hill",
+         "timestamp":"1722300060000",
+         "newsUrl":"https://thehill.com/homenews/campaign/4799157-ingraham-donald-trump-christians-vote-anymore/",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNHdjbGhRWkRCTWFFdDZWakZHVFJDZkF4ampCU2dLTWdhZFZvb0tyZ1U=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNHdjbGhRWkRCTWFFdDZWakZHVFJDZkF4ampCU2dLTWdhZFZvb0tyZ1U"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"JD Vance’s former Yale classmate and friend says emails show political transformation on ‘literally every imaginable issue’",
+         "snippet":"A Yale Law School friend of Ohio Sen. JD Vance, who has revealed years of emails the two previously exchanged, said Monday that the Republican vice ...",
+         "publisher":"CNN",
+         "timestamp":"1722340140000",
+         "newsUrl":"https://www.cnn.com/2024/07/29/politics/jd-vance-yale-friend-political-transformation-trump/index.html",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iL0NnNXZXbmsxY1RSVFJ6ZHJkSG90VFJDZkF4ampCU2dLTWdtTllaRFZMS2V4ckFF=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iL0NnNXZXbmsxY1RSVFJ6ZHJkSG90VFJDZkF4ampCU2dLTWdtTllaRFZMS2V4ckFF"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"Jon Stewart gives Republicans an option if they don’t like Kamala Harris",
+         "snippet":"The Daily Show” host Jon Stewart makes fun of the Republican response to Vice President Kamala Harris running for president.",
+         "publisher":"CNN",
+         "timestamp":"1722319708000",
+         "newsUrl":"https://www.cnn.com/2024/07/30/business/video/jon-stewart-republicans-response-kamala-harris-digvid",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iL0NnNURhWGQyYTI0elIyOVRjalJWVFJDZkF4ampCU2dLTWdrTk1aclZsS3FwS1FJ=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iL0NnNURhWGQyYTI0elIyOVRjalJWVFJDZkF4ampCU2dLTWdrTk1aclZsS3FwS1FJ"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"Anjem Choudary: Radical preacher jailed for life",
+         "snippet":"Anjem Choudary, the leader of the banned terror group al-Muhajiroun, has been jailed for life and may never leave prison alive.",
+         "publisher":"BBC.com",
+         "timestamp":"1722340608000",
+         "newsUrl":"https://www.bbc.com/news/articles/c3geqp8vx08o",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNTNWSFZHZG00d00yZEJWelIwVFJDb0FSaXNBaWdCTWdZdFZaQ3VLUWM=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNTNWSFZHZG00d00yZEJWelIwVFJDb0FSaXNBaWdCTWdZdFZaQ3VLUWM"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"Massive dragonfly swarms delight some beachgoers, terrify others",
+         "snippet":"Beachgoers in Rhode Island expecting fun in the sun Saturday got more than they bargained for when millions of dragonflies swarmed in from the ocean in a ...",
+         "publisher":"The Washington Post",
+         "timestamp":"1722305158000",
+         "newsUrl":"https://www.washingtonpost.com/nation/2024/07/29/dragonflies-swarm-rhode-island-beach/",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iJ0NnNDBTMHB6TkVKdlpWTmlTR1UzVFJDZEF4am1CU2dLTWdNQlVBSQ=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iJ0NnNDBTMHB6TkVKdlpWTmlTR1UzVFJDZEF4am1CU2dLTWdNQlVBSQ"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"Donald Trump says he 'probably' will debate Kamala Harris but 'can also make a case for not'",
+         "snippet":"Donald Trump has backed away somewhat from his earlier commitment to debate Vice President Kamala Harris, questioning the value of a meetup and saying he ...",
+         "publisher":"ABC News",
+         "timestamp":"1722303331000",
+         "newsUrl":"https://abcnews.go.com/US/wireStory/donald-trump-debate-kamala-harris-make-case-112388274",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNXpaRVZPYW05c05HRnliR1Z1VFJDZkF4ampCU2dLTWdhcFJKQ3VwUWM=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNXpaRVZPYW05c05HRnliR1Z1VFJDZkF4ampCU2dLTWdhcFJKQ3VwUWM"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"Harris, in 2020, said 'we have to redirect resources' from police",
+         "snippet":"Kamala Harris, who is running partly on her record as a prosecutor, said in an interview after George Floyd's death that \"we have to redirect resources\" ...",
+         "publisher":"ABC News",
+         "timestamp":"1722331527000",
+         "newsUrl":"https://abcnews.go.com/US/harris-2020-redirect-resources-police/story?id=112378103",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNDRkM2MyTldKd1IxUnBRVGhxVFJDZkF4ampCU2dLTWdZaEY0WXFFZ28=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNDRkM2MyTldKd1IxUnBRVGhxVFJDZkF4ampCU2dLTWdZaEY0WXFFZ28"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"Iowa now bans most abortions after about 6 weeks, before many women know they're pregnant",
+         "snippet":"DES MOINES, Iowa (AP) — Iowa's strict abortion law went into effect Monday, immediately prohibiting most abortions after about six weeks of pregnancy, ...",
+         "publisher":"The Associated Press",
+         "timestamp":"1722265920000",
+         "newsUrl":"https://apnews.com/article/iowa-abortion-ban-bd8a959fd64fef5914459e9ea4a64294",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNUJTRTVGU0c5blRuQkNRbkJqVFJDUEF4alhCQ2dLTWdhbFpKTE9LUWc=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNUJTRTVGU0c5blRuQkNRbkJqVFJDUEF4alhCQ2dLTWdhbFpKTE9LUWc"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"Exclusive: The inside story of John Roberts and Trump’s immunity win at the Supreme Court",
+         "snippet":"The Supreme Court's toughest cases during Chief Justice John Roberts' tenure have often generated internal suspense, with shifting votes and last-minute ...",
+         "publisher":"CNN",
+         "timestamp":"1722338940000",
+         "newsUrl":"https://www.cnn.com/2024/07/30/politics/supreme-court-john-roberts-trump-immunity-6-3-biskupic/index.html",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNW5kWHB4Y0RCYVJtTjBSbVF6VFJDZkF4amlCU2dLTWdZVmNvejB1QVU=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNW5kWHB4Y0RCYVJtTjBSbVF6VFJDZkF4amlCU2dLTWdZVmNvejB1QVU"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"Wild Trump assassination attempt video shows cops surround building, then barrage of gunfire: ‘They got him right in the head’",
+         "snippet":"Shocking new footage from the assassination attempt on Donald Trump shows local cops with guns drawn surrounding the building where Thomas Crooks opened ...",
+         "publisher":"New York Post ",
+         "timestamp":"1722296520000",
+         "newsUrl":"https://nypost.com/2024/07/29/us-news/wild-trump-shooting-video-shows-cops-then-barrage-of-fire/",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iL0NnNUNUMkk0WkdkU2MxTm1VekJEVFJERUF4aW5CU2dLTWdsQkVJWjJ3S00xRFFJ=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iL0NnNUNUMkk0WkdkU2MxTm1VekJEVFJERUF4aW5CU2dLTWdsQkVJWjJ3S00xRFFJ"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"One Word Has Elevated Minnesota’s Governor to the Democrats’ V.P. Wish List",
+         "snippet":"No one would accuse Gov. Tim Walz of Minnesota of being flashy. He taught social studies for 20 years before trying politics. During six terms in Congress, ...",
+         "publisher":"The New York Times",
+         "timestamp":"1722289664000",
+         "newsUrl":"https://www.nytimes.com/2024/07/29/us/tim-walz-minnesota-kamala-harris.html",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNWFhVVZSUXpGR1VIZGxXRzVuVFJDUUF4allCQ2dLTWdZQlVKQ09IUWs=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNWFhVVZSUXpGR1VIZGxXRzVuVFJDUUF4allCQ2dLTWdZQlVKQ09IUWs"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"How Barack Obama Ended Normalcy in American Politics",
+         "snippet":"The people have spoken, and last week former President Barack Obama called Vice President Kamala Harris to tell her. His endorsement of her run for the ...",
+         "publisher":"Tablet Magazine",
+         "timestamp":"1722297184000",
+         "newsUrl":"https://www.tabletmag.com/sections/news/articles/barack-obama-ended-normalcy-american-politics",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNUNRemQ2UldaeE9TMXlWREpPVFJDM0FSaVRBaWdCTWdhaEpKcXNtUWs=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNUNRemQ2UldaeE9TMXlWREpPVFJDM0FSaVRBaWdCTWdhaEpKcXNtUWs"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"Russia is relying on unwitting Americans to spread election disinformation, US officials say",
+         "snippet":"WASHINGTON (AP) — The Kremlin is turning to unwitting Americans and commercial public relations firms in Russia to spread disinformation about the U.S. ...",
+         "publisher":"The Associated Press",
+         "timestamp":"1722300180000",
+         "newsUrl":"https://apnews.com/article/russia-trump-biden-harris-china-election-disinformation-54d7e44de370f016e87ab7df33fd11c8",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iJ0NnNW9ha3Q2Ym5SeWNWaDFWM2R2VFJEVkFSakFBaWdLTWdNSkF3bw=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iJ0NnNW9ha3Q2Ym5SeWNWaDFWM2R2VFJEVkFSakFBaWdLTWdNSkF3bw"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"French police arrest ultra-left activist over pre-Olympics railway sabotage as new incident hits phone lines",
+         "snippet":"Paris — French authorities have arrested an activist from an ultra-left-wing movement at a site belonging to national rail operator SNCF, ...",
+         "publisher":"CBS News",
+         "timestamp":"1722266029000",
+         "newsUrl":"https://www.cbsnews.com/news/paris-olympics-trains-sabotage-arrest-far-left-activist-phone-lines-telecommunications/",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iL0NnNU5SMWRST1VOTk1WazRUR2hhVFJDUkF4ajhCU2dLTWdtbE00VE5tYU5jOHdB=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iL0NnNU5SMWRST1VOTk1WazRUR2hhVFJDUkF4ajhCU2dLTWdtbE00VE5tYU5jOHdB"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"See the mother bear and her cubs that survived Jasper National Park's largest wildfire in 100 years by hiding",
+         "snippet":"Jasper National Park in Alberta, Canada, is facing the largest wildfire it has seen in a century. But as crews continue to race to control the flames, ...",
+         "publisher":"CBS News",
+         "timestamp":"1722270254000",
+         "newsUrl":"https://www.cbsnews.com/news/mother-bear-cubs-survive-jasper-national-park-fire-photos/",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNVBhWFo0TUZGd2NVWldVRlozVFJDUkF4ajhCU2dLTWdZQmNKQlFNQWM=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNVBhWFo0TUZGd2NVWldVRlozVFJDUkF4ajhCU2dLTWdZQmNKQlFNQWM"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"Biden Administration Announces Additional Security Assistance for Ukraine",
+         "snippet":"DOD announced additional security assistance to meet Ukraine's critical security and defense needs. ,",
+         "publisher":"Department of Defense",
+         "timestamp":"1722267901000",
+         "newsUrl":"https://www.defense.gov/News/Releases/Release/Article/3852671/biden-administration-announces-additional-security-assistance-for-ukraine/",
+         "hasSubnews":false
+      },
+      {
+         "title":"IMF Executive Board Approves Four-Year US$3.4 billion Extended Credit Facility Arrangement for Ethiopia",
+         "snippet":"The IMF Board approved an SDR 2.556 billion (about US$3.4 billion) ECF arrangement for Ethiopia. This decision will enable an immediate disbursement ...",
+         "publisher":"International Monetary Fund",
+         "timestamp":"1722281677000",
+         "newsUrl":"https://www.imf.org/en/News/Articles/2024/07/29/pr24291-ethiopia-imf-exec-board-approves-4yr-us3b-ecf-arr",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNVpTVWRZYWpKb1RYQm1jemQxVFJDb0FSaXNBaWdCTWdhZHM0NXJPUVk=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNVpTVWRZYWpKb1RYQm1jemQxVFJDb0FSaXNBaWdCTWdhZHM0NXJPUVk"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"American flags should be born in the USA now, too, Congress says",
+         "snippet":"Congress has passed a proposal to require the federal government to purchase only flags that have been completely manufactured in the U.S..",
+         "publisher":"The Associated Press",
+         "timestamp":"1722272820000",
+         "newsUrl":"https://apnews.com/article/american-flags-susan-collins-china-c31c30bce3b0a1afc74f79f769022a26",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNTJiVUUyZFRRMGNrRnpXVXBPVFJEVkFSakFBaWdLTWdZcE5ZVE9uUUk=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNTJiVUUyZFRRMGNrRnpXVXBPVFJEVkFSakFBaWdLTWdZcE5ZVE9uUUk"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"Stock futures rise slightly as traders weigh latest earnings, Fed decision looms: Live updates",
+         "snippet":"Stock futures rose marginally on Tuesday as investors digested key corporate earnings and looked to the beginning of the Federal Reserve's policy meeting.",
+         "publisher":"CNBC",
+         "timestamp":"1722344100000",
+         "newsUrl":"https://www.cnbc.com/2024/07/29/stock-market-today-live-updates.html",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNWtVR05qVFhsMmJGZHZSVmx2VFJDZkF4ampCU2dLTWdZeEU1b3lGUW8=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNWtVR05qVFhsMmJGZHZSVmx2VFJDZkF4ampCU2dLTWdZeEU1b3lGUW8"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"Police announce second death in mass shooting at upstate New York park",
+         "snippet":"ROCHESTER, N.Y. – A second person has died following a mass shooting that broke out at a city park in upstate New York Sunday evening, police officials ...",
+         "publisher":"USA TODAY",
+         "timestamp":"1722273656000",
+         "newsUrl":"https://www.usatoday.com/story/news/nation/2024/07/29/rochester-ny-shooting-maplewood-park-updates/74584231007/",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNTZTVGR2UW1oQ2NrazFhMWRsVFJEekFoaVVCU2dLTWdZQm9JcW0wZ1E=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNTZTVGR2UW1oQ2NrazFhMWRsVFJEekFoaVVCU2dLTWdZQm9JcW0wZ1E"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"New audio: Vance calls Biden-Harris swap a 'sucker punch'",
+         "snippet":"JD Vance says in new audio that the Biden-Harris swap was a political “sucker punch,” differing from Trump's claims that Harris is a worse candidate than ...",
+         "publisher":"CNN",
+         "timestamp":"1722304074000",
+         "newsUrl":"https://www.cnn.com/2024/07/29/politics/video/biden-harris-swap-vance-audio-src-digvid",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNTNRMjgwV2xkaGNHUXhabTl6VFJDTkFSajZBU2dLTWdhaE5wQUxIZ2s=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNTNRMjgwV2xkaGNHUXhabTl6VFJDTkFSajZBU2dLTWdhaE5wQUxIZ2s"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"Olympic opening ceremony DJ filing legal complaints for online abuse over ‘Last Supper’",
+         "snippet":"A storm of outrage about the Paris Olympics' opening ceremony has taken a legal turn. A DJ who performed at the show posted Tuesday that her lawyer is ...",
+         "publisher":"The Associated Press",
+         "timestamp":"1722333540000",
+         "newsUrl":"https://apnews.com/article/olympics-2024-ceremony-last-supper-complaint-3e99aefe9e5e739afcee9818906c2ae8",
+         "hasSubnews":false
+      },
+      {
+         "title":"Florida Republican pledges ‘parallel independent investigation’ into Trump shooting",
+         "snippet":"Rep. Cory Mills (R-Fla.) on Monday pledged to fund a \"parallel independent investigation\" into the attempted assassination of former President Trump, ...",
+         "publisher":"The Hill",
+         "timestamp":"1722289320000",
+         "newsUrl":"https://thehill.com/homenews/house/4798861-trump-shooting-investigation-cory-mills/",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNXdWVTVtYkV0Rk5rSnFSbU16VFJDZkF4ampCU2dLTWdZbFZwYnNKUWc=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNXdWVTVtYkV0Rk5rSnFSbU16VFJDZkF4ampCU2dLTWdZbFZwYnNKUWc"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"Most intriguing storylines as Trade Deadline final countdown begins",
+         "snippet":"It's the final countdown. No, we're not talking about the finale of a Europe concert, but rather the time ticking away toward today's 6 p.m. ET Major League ...",
+         "publisher":"MLB.com",
+         "timestamp":"1722311263000",
+         "newsUrl":"https://www.mlb.com/news/2024-mlb-trade-deadline-biggest-storylines-left",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iMkNnNUhUSGxNUzBwd2EzRkdjV2R4VFJDb0FSaXNBaWdCTWdzTklvck51ZVkxNUdydVJB=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iMkNnNUhUSGxNUzBwd2EzRkdjV2R4VFJDb0FSaXNBaWdCTWdzTklvck51ZVkxNUdydVJB"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"McDonald's sales are slumping because people can't afford fast-food",
+         "snippet":"McDonald's global sales slumped in the second quarter, marking the first decline for the fast-food giant since 2020 as inflation-weary consumers pull back ...",
+         "publisher":"CBS News",
+         "timestamp":"1722281181000",
+         "newsUrl":"https://www.cbsnews.com/news/mcdonalds-sales-decline-value-meal/",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iMkNnNXRaWEZEYjBGTWIyRnFkSGx0VFJDUkF4ajhCU2dLTWd1SkVvYkVMcWRyMDlpY3FR=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iMkNnNXRaWEZEYjBGTWIyRnFkSGx0VFJDUkF4ajhCU2dLTWd1SkVvYkVMcWRyMDlpY3FR"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"The DNC will hold a virtual roll call to nominate Kamala Harris. Here's how the vote will work.",
+         "snippet":"As soon as this Thursday, delegates in the Democratic Party will hold a virtual vote to select their new nominee. Vice President Kamala Harris is expected ...",
+         "publisher":"CBS News",
+         "timestamp":"1722344160000",
+         "newsUrl":"https://www.cbsnews.com/news/dnc-virtual-roll-call-2024-how-it-works/",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNXZXVkV5Tm1SSllrUkRUa2xXVFJDUkF4ajhCU2dLTWdZMWxJSnd0UVU=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNXZXVkV5Tm1SSllrUkRUa2xXVFJDUkF4ajhCU2dLTWdZMWxJSnd0UVU"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"\"Old and quite weird\": Democrats finally discover new effective attack — and Republicans hate it",
+         "snippet":"After nearly a decade of being forced to take Trump seriously, Democrats call BS on the whole charade.",
+         "publisher":"Salon",
+         "timestamp":"1722266880000",
+         "newsUrl":"https://www.salon.com/2024/07/29/old-and-quite-weird-democrats-finally-discover-new-effective--and-hate-it/",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iI0NnNXdlbWhSUkhJeVlYZHNZVW90VFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iI0NnNXdlbWhSUkhJeVlYZHNZVW90VFJERUF4aW1CU2dLTWdB"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"FDA approves blood test for colorectal cancer",
+         "snippet":"A blood test for colorectal cancer adds a screening option for the second most common cause of U.S. cancer deaths.",
+         "publisher":"Axios",
+         "timestamp":"1722320916000",
+         "newsUrl":"https://www.axios.com/2024/07/29/fda-blood-test-colorectal-cancer",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNVlValZpYjBZeFRIYzBVMXBqVFJDZkF4ampCU2dLTWdZVmRJd3NNZ2c=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNVlValZpYjBZeFRIYzBVMXBqVFJDZkF4ampCU2dLTWdZVmRJd3NNZ2c"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"Coco Gauff ousted at Paris Olympics in third round match marred by controversial call",
+         "snippet":"Coco Gauff lost to Croatia's Donna Vekic in the third round of the Paris Olympics. But the result has some controversy attached.",
+         "publisher":"USA TODAY",
+         "timestamp":"1722342531000",
+         "newsUrl":"https://www.usatoday.com/story/sports/olympics/2024/07/30/coco-gauff-eliminated-after-controversial-call/74599083007/",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNWtaRnBOZEZwVVoxOWhSbEpKVFJEekFoaVVCU2dLTWdZUk5wSUttZ2s=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNWtaRnBOZEZwVVoxOWhSbEpKVFJEekFoaVVCU2dLTWdZUk5wSUttZ2s"
+         },
+         "hasSubnews":false
+      },
+      {
+         "title":"Brewers deal for Reds righty Frankie Montas (source)",
+         "snippet":"MILWAUKEE – Frankie Montas signed with the Reds last winter for a chance to make a push for a National League Central title. He could still get that chance, ...",
+         "publisher":"MLB.com",
+         "timestamp":"1722336237000",
+         "newsUrl":"https://www.mlb.com/news/frankie-montas-brewers-reds-trade",
+         "images":{
+            "thumbnail":"https://news.google.com/api/attachments/CC8iK0NnNWlTemxxWlVaSlN6ZE1NbmRaVFJDb0FSaXNBaWdCTWdZbEpZS3RGUWs=-w280-h168-p-df-rw",
+            "thumbnailProxied":"https://i.zedtranslate.com/newsimage/CC8iK0NnNWlTemxxWlVaSlN6ZE1NbmRaVFJDb0FSaXNBaWdCTWdZbEpZS3RGUWs"
+         },
+         "hasSubnews":false
+      }
+   ]
+}
