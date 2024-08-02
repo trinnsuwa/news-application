@@ -20,7 +20,7 @@ class MainNewsModelAdapter extends TypeAdapter<MainNewsModel> {
       title: fields[0] as String,
       snippet: fields[1] as String,
       fullArticleUrl: fields[3] as String,
-      thumbnailUrl: fields[2] as String,
+      thumbnailUrl: fields[2] as String?,
       timestamp: fields[4] as DateTime,
     );
   }
