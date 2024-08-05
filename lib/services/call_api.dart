@@ -19,7 +19,7 @@ import 'dart:convert';
 // }
 
 class NewsService {
-  static const String apiKey = '5e836ebceamshb6f8d86a33ad4b7p1591c8jsnf12393f72b5b';
+  static const String apiKey = '79c537b425msha1983a183c96248p121180jsnffa7110c1bd8';
   static const String baseUrl = 'https://google-news13.p.rapidapi.com/';
 
   Future<List<MainNewsModel>> fetchArticles(String topic) async {
@@ -38,9 +38,9 @@ class NewsService {
           .map((json) => MainNewsModel.fromJson(json))
           .toList();
     } else if (response.statusCode == 429) {
-      throw Exception('API limit exceeded');
+      throw ('API limit exceeded');
     } else {
-      throw Exception('Failed to load articles');
+      throw ('Failed to load articles');
     }
   }
 }
