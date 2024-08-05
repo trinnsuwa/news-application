@@ -17,17 +17,6 @@ class HomeView extends StatefulWidget {
 }
 
 class _HomeViewState extends State<HomeView> {
-  String? selectedCategory = 'default';
-
-  void _onCategorySelected(String categoryName) {
-    setState(() {
-      if (selectedCategory == categoryName) {
-        selectedCategory = null;
-      } else {
-        selectedCategory = categoryName;
-      }
-    });
-  }
 
   @override
   Widget build(BuildContext context) {
@@ -54,27 +43,32 @@ class _HomeViewState extends State<HomeView> {
                   ),
                 ),
               ),
-              SingleChildScrollView(
-                scrollDirection: Axis.horizontal,
-                child: Row(
-                  children: [
-                    ...[
-                      'latest',
-                      'entertainment',
-                      'world',
-                      'business',
-                      'health',
-                      'sport',
-                      'science',
-                      'technology'
-                    ].map((category) => CategoryTile(
-                          categoryName: category,
-                          isSelected: selectedCategory == category,
-                          onSelected: _onCategorySelected,
-                        )),
-                  ],
+              Obx(() {
+              return Padding(
+                padding: const EdgeInsets.only(bottom: 16.0),
+                child: SingleChildScrollView(
+                    scrollDirection: Axis.horizontal,
+                    child: Row(
+                      children: [
+                        ...[
+                          'latest',
+                          'entertainment',
+                          'world',
+                          'business',
+                          'health',
+                          'sport',
+                          'science',
+                          'technology'
+                        ].map((category) => CategoryTile(
+                              categoryName: category,
+                              isSelected: newsController.selectedCategory?.value == category,
+                              onSelected: newsController.onCategorySelected,
+                            )),
+                      ],
+                    ),
                 ),
-              ),
+              );
+              }),
               Obx(() {
                 if (newsController.isLoading.value) {
                   return const Center(child: CircularProgressIndicator());

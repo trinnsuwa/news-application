@@ -10,6 +10,7 @@ class NewsController extends GetxController {
   RxString currentTopic = 'latest'.obs;
   RxBool isLoading = false.obs;
   RxString errorMessage = ''.obs;
+  RxString? selectedCategory = 'default'.obs;
 
   late Box<MainNewsModel> savedArticlesBox;
   final NewsService newsService;
@@ -73,5 +74,13 @@ class NewsController extends GetxController {
     if (currentArticleIndex.value > 0) {
       currentArticleIndex(currentArticleIndex.value - 1);
     }
+  }
+
+  void onCategorySelected(String categoryName) {
+      if (selectedCategory?.value == categoryName) {
+        selectedCategory?.value = 'default';
+      } else {
+        selectedCategory?.value = categoryName;
+      }
   }
 }
