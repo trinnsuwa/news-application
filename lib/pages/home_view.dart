@@ -42,140 +42,144 @@ class _HomeViewState extends State<HomeView> {
         scrollDirection: Axis.vertical,
         child: Padding(
           padding: const EdgeInsets.all(8.0),
-          child: Obx(() {
-            if (newsController.isLoading.value) {
-              return const Center(child: CircularProgressIndicator());
-            }
-
-            if (newsController.errorMessage.value.isNotEmpty) {
-              return Center(child: Text(newsController.errorMessage.value));
-            }
-
-            if (newsController.listNews.isEmpty) {
-              return const Center(child: Text('No articles available'));
-            }
-
-            final MainNewsModel article = newsController
-                .listNews[newsController.currentArticleIndex.value];
-
-            return Column(
-              children: [
-                const Padding(
-                  padding: EdgeInsets.only(left: 8.0),
-                  child: Align(
-                    alignment: Alignment.centerLeft,
-                    child: Text(
-                      'Category News',
-                      style: filterButtonStyle,
-                    ),
+          child: Column(
+            children: [
+              const Padding(
+                padding: EdgeInsets.only(left: 8.0),
+                child: Align(
+                  alignment: Alignment.centerLeft,
+                  child: Text(
+                    'Category News',
+                    style: filterButtonStyle,
                   ),
                 ),
-                SingleChildScrollView(
-                  scrollDirection: Axis.horizontal,
-                  child: Row(
-                    children: [
-                      ...[
-                        'latest',
-                        'entertainment',
-                        'world',
-                        'business',
-                        'health',
-                        'sport',
-                        'science',
-                        'technology'
-                      ].map((category) => CategoryTile(
-                            categoryName: category,
-                            isSelected: selectedCategory == category,
-                            onSelected: _onCategorySelected,
-                          )),
-                    ],
-                  ),
-                ),
-                const SizedBox(
-                  height: 4,
-                ),
-                Padding(
-                  padding: const EdgeInsets.only(left: 16),
-                  child: Row(children: [
-                    Expanded(
-                      child: Text(
-                        article.title,
-                        style: headlineStyle,
-                      ),
-                    ),
-                    Obx(() => IconButton(
-                      icon: Icon(
-                        newsController.isArticleSaved(article)
-                            ? Icons.bookmark_added
-                            : Icons.bookmark_add_outlined,
-                      ),
-                      onPressed: () {
-                        if (newsController.isArticleSaved(article)) {
-                          newsController.removeArticle(article);
-                        } else {
-                          newsController.saveArticle(article);
-                        }
-                      },
-                    )),
-                  ]),
-                ),
-                const SizedBox(
-                  height: 16,
-                ),
-                GestureDetector(
-                    onTap: () async {
-                      if (await canLaunchUrl(
-                          Uri.parse(article.fullArticleUrl))) {
-                        await launchUrl(Uri.parse(article.fullArticleUrl));
-                      } else {
-                        throw 'Could not launch ${article.fullArticleUrl}';
-                      }
-                    },
-                    child: ClipRRect(
-                      borderRadius: BorderRadius.circular(16),
-                      child: Image.network(article.thumbnailUrl ?? '',
-                          width: MediaQuery.of(context).size.width,
-                          fit: BoxFit.contain),
-                    )),
-                const SizedBox(
-                  height: 8,
-                ),
-                Text(
-                  DateFormat('dd MMM yyyy HH:mm').format(article.timestamp),
-                  style: const TextStyle(fontSize: 12),
-                ),
-                const SizedBox(
-                  height: 16,
-                ),
-                Text(
-                  article.snippet,
-                  style: snippetStyle,
-                ),
-                const SizedBox(
-                  height: 24,
-                ),
-                Row(
-                  mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+              ),
+              SingleChildScrollView(
+                scrollDirection: Axis.horizontal,
+                child: Row(
                   children: [
-                    ElevatedButton(
-                      onPressed: newsController.previousArticle,
-                      child: const Text(
-                        'Previous',
-                        style: TextStyle(color: primaryColor),
-                      ),
-                    ),
-                    ElevatedButton(
-                      onPressed: newsController.nextArticle,
-                      child: const Text(
-                        'Next',
-                        style: TextStyle(color: primaryColor),
-                      ),
-                    ),
+                    ...[
+                      'latest',
+                      'entertainment',
+                      'world',
+                      'business',
+                      'health',
+                      'sport',
+                      'science',
+                      'technology'
+                    ].map((category) => CategoryTile(
+                          categoryName: category,
+                          isSelected: selectedCategory == category,
+                          onSelected: _onCategorySelected,
+                        )),
                   ],
                 ),
-              ],
-            );
-          }),
+              ),
+              Obx(() {
+                if (newsController.isLoading.value) {
+                  return const Center(child: CircularProgressIndicator());
+                }
+
+                if (newsController.errorMessage.value.isNotEmpty) {
+                  return Center(child: Text(newsController.errorMessage.value));
+                }
+
+                if (newsController.listNews.isEmpty) {
+                  return const Center(child: Text('No articles available'));
+                }
+
+                final MainNewsModel article = newsController
+                    .listNews[newsController.currentArticleIndex.value];
+
+                return Column(
+                  children: [
+                    const SizedBox(
+                      height: 4,
+                    ),
+                    Padding(
+                      padding: const EdgeInsets.only(left: 16),
+                      child: Row(children: [
+                        Expanded(
+                          child: Text(
+                            article.title,
+                            style: headlineStyle,
+                          ),
+                        ),
+                        Obx(() => IconButton(
+                              icon: Icon(
+                                newsController.isArticleSaved(article)
+                                    ? Icons.bookmark_added
+                                    : Icons.bookmark_add_outlined,
+                              ),
+                              onPressed: () {
+                                if (newsController.isArticleSaved(article)) {
+                                  newsController.removeArticle(article);
+                                } else {
+                                  newsController.saveArticle(article);
+                                }
+                              },
+                            )),
+                      ]),
+                    ),
+                    const SizedBox(
+                      height: 16,
+                    ),
+                    GestureDetector(
+                        onTap: () async {
+                          if (await canLaunchUrl(
+                              Uri.parse(article.fullArticleUrl))) {
+                            await launchUrl(Uri.parse(article.fullArticleUrl));
+                          } else {
+                            throw 'Could not launch ${article.fullArticleUrl}';
+                          }
+                        },
+                        child: ClipRRect(
+                          borderRadius: BorderRadius.circular(16),
+                          child: Image.network(article.thumbnailUrl ?? '',
+                              width: MediaQuery.of(context).size.width,
+                              fit: BoxFit.contain),
+                        )),
+                    const SizedBox(
+                      height: 8,
+                    ),
+                    Text(
+                      DateFormat('dd MMM yyyy HH:mm').format(article.timestamp),
+                      style: const TextStyle(fontSize: 12),
+                    ),
+                    const SizedBox(
+                      height: 16,
+                    ),
+                    Text(
+                      article.snippet,
+                      style: snippetStyle,
+                    ),
+                    const SizedBox(
+                      height: 24,
+                    ),
+                    Row(
+                      mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                      children: [
+                        ElevatedButton(
+                          onPressed: newsController.previousArticle,
+                          child: const Text(
+                            'Previous',
+                            style: TextStyle(color: primaryColor),
+                          ),
+                        ),
+                        ElevatedButton(
+                          onPressed: newsController.nextArticle,
+                          child: const Text(
+                            'Next',
+                            style: TextStyle(color: primaryColor),
+                          ),
+                        ),
+                      ],
+                    ),
+                  ],
+                );
+              }),
+            ],
+          ),
         ),
       ),
     );
